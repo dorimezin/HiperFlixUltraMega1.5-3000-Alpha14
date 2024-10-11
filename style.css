@@ -1,9 +1,10 @@
 body {
 
-     background: cyan;
+     background: gray;
+     color: lightgoldenrodyellow;
 }
 
 header {
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
 }
