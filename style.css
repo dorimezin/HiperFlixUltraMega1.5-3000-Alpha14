@@ -7,7 +7,7 @@ body {
 header {
     text-align: center;
     font-size: 50px;
-    border-bottom: solid 3px darkmagenta;
+    border-bottom: solid 3px black;
 }
 section{
     display: flex;
