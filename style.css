@@ -10,7 +10,7 @@ header {
     font-size: 50px;
     border-bottom: solid 3px black;
 }
-section{
+.inicio{
     display: flex;
     background-color: rgb(80, 78, 78);
     padding-bottom: 80px;
@@ -26,4 +26,18 @@ section{
 img {
     width: 150px;
     height: 200px;
+    opacity: 0.8;
+}
+h2 {
+
+
+}
+.recomenda{
+display: flex;
+overflow-x: auto;
+gap: 16px ;
+}
+img:hover{
+    opacity: 1.0;
+    border: solid 3px black;
 }
